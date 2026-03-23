@@ -1,2 +1,2 @@
 # TaskTrackr
-A mini Project i created for my course.
+A mini Project I created for my course.
