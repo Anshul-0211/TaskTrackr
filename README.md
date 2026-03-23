@@ -9,13 +9,13 @@
 ## 🎬 Project Preview
 
 ### Dashboard & Kanban Board
-![TaskTrackr Dashboard](https://via.placeholder.com/1200x600?text=TaskTrackr+Kanban+Board+-+Priority,+Upcoming,+In+Progress,+Completed)
+![TaskTrackr Dashboard](./Kanban.png)
 
 ### Pomodoro Timer Interface
-![Pomodoro Timer](https://via.placeholder.com/1200x600?text=Pomodoro+Timer+-+Work,+Break,+Focus+Mode)
+![Pomodoro Timer](./Pomodoro_timer.png)
 
 ### Mobile Responsive Design
-![Mobile View](https://via.placeholder.com/400x800?text=Mobile+Responsive+Design)
+![Mobile View](./Mobile_UI.png)
 
 ---
 
